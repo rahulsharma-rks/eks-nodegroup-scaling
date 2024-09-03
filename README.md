@@ -15,7 +15,7 @@ Permissions List:
 * AWSLambdaBasicExecutionRole
 
 For EKS:
-'''
+```
 {
 	"Version": "2012-10-17",
 	"Statement": [
@@ -33,10 +33,10 @@ For EKS:
 		}
 	]
 }
-'''
+```
 
 For SNS:
-'''
+```
 {
 	"Version": "2012-10-17",
 	"Statement": [
@@ -47,5 +47,5 @@ For SNS:
 		}
 	]
 }
-'''
+```
 
